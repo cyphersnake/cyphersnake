@@ -4,4 +4,4 @@
 #+DESCRIPTION: Cyphersnake github profile description
 #+LANGUAGE:  en
 
-Rust developer in Cryptography, developing a Zero-Knowledge-Proof Folding system
+Rust developer in Cryptography
